@@ -1,0 +1,18 @@
+{
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
+	"font_face": "monofur for powerline",
+	"font_options":
+	[
+		"nobold",
+		"noitalic"
+	],
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tabs_padding_small": true,
+	"tabs_small": true,
+	"theme": "Afterglow-blue.sublime-theme"
+}
